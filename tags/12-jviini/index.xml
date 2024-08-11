@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>12 Jviini on مدونتي</title>
+    <link>//localhost:1313/tags/12-jviini/</link>
+    <description>Recent content in 12 Jviini on مدونتي</description>
+    <generator>Hugo</generator>
+    <language>ar</language>
+    <lastBuildDate>Wed, 02 Jun 2004 00:47:45 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/12-jviini/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>التدوينة الثانية عشر</title>
+      <link>//localhost:1313/posts/posts12/</link>
+      <pubDate>Wed, 02 Jun 2004 00:47:45 +0200</pubDate>
+      <guid>//localhost:1313/posts/posts12/</guid>
+      <description>هناك حقيقة مثبتة منذ زمن طويل وهي أن المحتوى المقروء لصفحة ما سيلهي القارئ عن التركيز على الشكل الخارجي للنص أو شكل توضع الفقرات في الصفحة التي يقرأها</description>
+    </item>
+  </channel>
+</rss>
